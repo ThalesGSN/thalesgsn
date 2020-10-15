@@ -1,0 +1,1 @@
+export {default as ScrollIndication} from './ScrollIndication';

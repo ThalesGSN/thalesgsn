@@ -1,14 +1,14 @@
 import React from 'react';
 import './App.css';
-import {useSystemDarkMode} from "./hooks/useSystemDarkMode";
+import {StartingView} from "./components/StartingView";
+
 
 function App() {
-  const isDarkMode = useSystemDarkMode();
 
-  return (
-    <div className="App">
-      <div className="gradient-background"/>
-    </div>
+    return (
+    <main className="App">
+        <StartingView />
+    </main>
   );
 }
 
