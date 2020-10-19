@@ -2,14 +2,10 @@ import React from 'react';
 import './App.css';
 import {StartingView} from "./components/StartingView";
 
-
-function App() {
-
-    return (
+const App = () => (
     <main className="App">
-        <StartingView />
+        <StartingView/>
     </main>
-  );
-}
+);
 
 export default App;

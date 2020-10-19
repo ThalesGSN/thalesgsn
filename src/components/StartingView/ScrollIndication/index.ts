@@ -1,1 +1,3 @@
-export {default as ScrollIndication} from './ScrollIndication';
+import ScrollIndication from "./ScrollIndication";
+
+export default ScrollIndication;

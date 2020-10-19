@@ -7,7 +7,6 @@ export const ScrollIndicationContainer = styled.article`
   align-items: center;
 `;
 export const ScrollIcon = styled.main`
-  //background: white linear-gradient(transparent 0%, transparent 50%, var(--main-color) 50%, var(--main-color) 100%);
   border: 3px solid  var(--main-color);
   width: 25px;
   height: 48px;
