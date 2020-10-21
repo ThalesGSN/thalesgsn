@@ -1,7 +1,13 @@
+@font-face {
+  font-family: Oswald;
+  src: url("Assets/fonts/Oswald/Oswald-VariableFont_wght.ttf");
+}
+
 html {
   --primary-color: #FE016C;
   --background-color: #fff;
   --main-color: #232323;
+  --terminal-green: #4AF626;
   background: var(--background-color);
   width: 100vw;
   height: 100vh;
@@ -13,4 +19,5 @@ html[data-theme='dark'] {
   --primary-color: #FFBD07;
   --background-color: #232323;
   --main-color: #fbfbff;
+  --terminal-green: #4AF626;
 }

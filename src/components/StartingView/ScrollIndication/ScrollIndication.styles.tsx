@@ -2,6 +2,7 @@ import styled from "styled-components";
 
 export const ScrollIndicationContainer = styled.article`
   grid-area: Scroll;
+  place-self: center;
   display: inline-flex;
   flex-direction: column;
   align-items: center;
@@ -13,7 +14,6 @@ export const ScrollIcon = styled.main`
   border-radius: 100px;
   background-size: 100% 200%;
   animation: nudgeMouse 6s ease-out infinite;
-
     &:before, &:after {
       content: "";
       position: absolute;

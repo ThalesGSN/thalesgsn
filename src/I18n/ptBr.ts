@@ -5,5 +5,6 @@ export default {
     typeWriter: {
         before: 'Um desenvolvedor',
         after: '.'
-    }
+    },
+    profilePicAlt: 'Foto de perfil do Thales.'
 };

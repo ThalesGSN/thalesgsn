@@ -4,6 +4,13 @@ import {isDesktop} from "../../utils/consts";
 
 export const StartingViewContainer = styled.section`
   display: grid;
+  grid-auto-rows: 10vh 40vh 25vh 10vh 15vh;
+  justify-items: center;
+  grid-template-areas: '.'
+                      'Profile'
+                      'TypeLanguage'
+                      '.'
+                      'Scroll';
 `;
 
 export interface GradientBackgroundProps {
@@ -18,6 +25,7 @@ export const GradientBackground = styled.div<GradientBackgroundProps>`
   transform: rotate(45deg);
   border-radius: 50px;
   overflow-x: hidden;
+  z-index: -1;
   
   ${(props: GradientBackgroundProps) => props.darkMode && css`
     background: rgb(131,58,180);
