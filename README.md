@@ -1,5 +1,5 @@
 ### Hi there 👋
- This is my profle presentation at github, if you want to know more about my professional profile, please take a look at my [LinkedIn](https://www.linkedin.com/in/thalesgsn/) or my [profile page](https://thalesnunes.com)(under construction).
+ This is a short presentation for my github profile, if you want to know more about my professional profile, please take a look at my [LinkedIn](https://www.linkedin.com/in/thalesgsn) or my [profile page](https://thalesnunes.com)(under construction).
  
 ### 🔭 I’m currently working on ...
  Work projects running mainly at azure using .net core and react.
