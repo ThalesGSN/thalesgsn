@@ -2,7 +2,7 @@
  This is a short presentation for my github profile, if you want to know more about my professional profile, please take a look at my [LinkedIn](https://www.linkedin.com/in/thalesgsn) or my [profile page](https://thalesnunes.com)(under construction).
  
 ### 🔭 I’m currently working on ...
- Work projects running mainly at azure using .net core and react.
+ Projects running mainly at AWS using .net core and react.
  
 ### 🌱 I’m currently learning ...
   Mobile development using flutter and how to collaborate to open source project.
@@ -14,7 +14,7 @@
   Learning how to contribute to open source projects.
 
 ### 💬 Ask me about ...
- Anything, if you want help with something or just bounce ideas off each other, just call me.
+ Anything, if you want help with something or just bounce ideas off each other, just get in touch.
   
 ### 📫 How to reach me:
   You can reach me at my [linkedIn](https://www.linkedin.com/in/thales-nunes-a5b669153) or my [email](mailto:thalesgsn@gmail.com)
